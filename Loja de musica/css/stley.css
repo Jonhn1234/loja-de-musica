@@ -24,7 +24,7 @@ nav{
 }
 
 body{
-    background-color: rgb(248, 104, 47);
+    background-color: rgb(247, 92, 31);
 
 
 }
@@ -48,5 +48,11 @@ body{
 
 }
 
+.list-group-item:hover{
+    background-color: #1E90FF;
+    color: white;
+
+
+}
 
 
